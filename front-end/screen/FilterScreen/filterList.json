@@ -1,0 +1,14 @@
+{
+    "Location":{
+        "filterName":"Location",
+        "filterList":["West SG", "Central SG","East SG"]
+    },
+    "Facility":{
+        "filterName":"Facility",
+        "filterList":["Church","School","Hospital","MRT station","Bus Station","Shopping Mall","Restaurant","Park","Food Court","Car Park","Attractions"]
+    },
+    "Price":{
+        "filterName":"Price",
+        "filterList":["Below 500k SGD","500k-1000k SGD","1000k-3000k SGD","300k-5000k SGD","Above 5,000k SGD"]
+    }
+}
